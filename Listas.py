@@ -1,6 +1,4 @@
 #Creación de listas de una línea
-from ast import List
-
 
 Lista = []
 
